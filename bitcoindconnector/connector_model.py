@@ -1,5 +1,5 @@
 import asyncio
-from pybtc import Transaction, var_int_to_int, read_var_int
+from pybgl import Transaction, var_int_to_int, read_var_int
 import time
 import io
 from collections import OrderedDict
